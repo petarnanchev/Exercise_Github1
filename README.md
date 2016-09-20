@@ -18,3 +18,7 @@ Some changes for the branch 1 - to commit them !?
 Some changes in Main branch ... again ...t rfddfgdfgdfgdg
 
 deleted braqnch1
+
+++++++++++++++++++++
+
+Git Bash turn
